@@ -23,6 +23,7 @@ This project is designed and implemented to full-fill [EOSIO Challenge](https://
 > terms, e.g. BFSP, account types, are explained in Appendix
 
 - Simulate an EVM Interpreter in EOSIO smart contract and execute EVM transactions as faithfully to the Ethereum Yellow Paper as possible
+- NO CHANGES to the EOSIO software
 - Follow EVMC standard.
 - Fully support all EVMC_REVISIONs
 - An tester project [vm-test](https://github.com/eosiosg/vm-test) is developed to test [VMTest](https://github.com/ethereum/tests/tree/7497b116a019beb26215cbea4028df068dea06be)
