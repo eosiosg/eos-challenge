@@ -1,0 +1,9 @@
+[submodule "eos-challenge-contract"]
+	path = eos-challenge-contract
+	url = https://github.com/eosiosg/eos-challenge-contract.git
+[submodule "eos_evm_sdk"]
+	path = eos_evm_sdk
+	url = https://github.com/eosiosg/eos_evm_sdk.git
+[submodule "vm-test"]
+	path = vm-test
+	url = https://github.com/eosiosg/vm-test.git
