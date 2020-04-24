@@ -5,7 +5,7 @@ This project is designed and implemented to full-fill [EOSIO Challenge](https://
 - An SDK to deploy and use the contract [eos_evm_sdk](https://github.com/eosiosg/eos_evm_sdk)
 - A tester project [vm-test
 ](https://github.com/eosiosg/vm-test) to test the contract using [eth tests](https://github.com/ethereum/tests)
-- Practical [use cases discussion](./use_case_discussion.md) in real world 
+- Practical [use cases discussion](./use_case_discussion.md) in real world
 - Detailed documentations
 
 
@@ -13,10 +13,8 @@ This project is designed and implemented to full-fill [EOSIO Challenge](https://
 ```
 --
   |- eos-challenge-contract   //challenge contract source code and pre-built wasm
-  |- eos_evm_sdk  //sdk to deploy and use contract
+  |- eos_evm_sdk  //sdk to deploy and use contract, include examples: hello-world, ERC20 and ERC721
   |- vm-test //use ethereum/tests to test challenge contract
-  |- test-result // TODO add result
-  |- examples //ERC20 example, ERC-721 example, hello-world example
 ```
 
 ## Features and Highlights
