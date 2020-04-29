@@ -25,7 +25,7 @@ This project is designed and implemented to full-fill [EOSIO Challenge](https://
 - Follow EVMC standard.
 - Fully support all EVMC_REVISIONs
 - An tester project [vm-test](https://github.com/eosiosg/vm-test) is developed to test [VMTest](https://github.com/ethereum/tests/tree/7497b116a019beb26215cbea4028df068dea06be)
-- Support dry-run transaction execution. //TODO add example and document
+- Support dry-run transaction execution. //`simulate` action in smart contract
 - Example EVM contracts are provided.
 - Use cases and extensions are discussed [here](./use_case_discussion.md).
 - Detailed Functions
