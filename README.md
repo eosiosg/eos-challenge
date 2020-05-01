@@ -1,3 +1,4 @@
+![](./challenge.png)
 # EOSIO smart contract challenge
 This project is designed and implemented to full-fill [EOSIO Challenge](https://eosio.devpost.com). It provides
 - An eosio smart contract to simulate EVM [eos-challenge-contract
@@ -28,6 +29,7 @@ This project is designed and implemented to full-fill [EOSIO Challenge](https://
 - Support dry-run transaction execution. //`simulate` action in smart contract
 - Example EVM contracts are provided.
 - Use cases and extensions are discussed [here](./use_case_discussion.md).
+- a demo account in test-net can be found [here](https://jungle.bloks.io/account/eosevm111111)
 - Detailed Functions
     - EOS user can create a eth address associated with his/her EOS account, and use EOS account private key to execute challenge transactions.
     - ETH user can create an account through BFSP by provide an eth address. Afterwards the ETH user can call EVM contracts (deployed in challenge contract) exactly the same way as in ETH, except that a BFSP is needed to forward transactions.
