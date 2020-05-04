@@ -1,5 +1,8 @@
 ![](./challenge.png)
 # EOSIO smart contract challenge
+medium link https://medium.com/boscore/eos-evm-smart-contract-60b00cd973fa  
+youtube link https://youtu.be/8azGNY0OKLk  
+
 This project is designed and implemented to full-fill [EOSIO Challenge](https://eosio.devpost.com). It provides
 - An eosio smart contract to simulate EVM [eos-challenge-contract
 ](https://github.com/eosiosg/eos-challenge-contract)
